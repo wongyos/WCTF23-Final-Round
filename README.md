@@ -23,7 +23,7 @@ The CTF challenges by AJ.Bank in the Women Thailand Cyber Top Talent 2023 final 
 | 18 | Programming | Palindrome Prime Flag | Easy | 100 | Wongyos Keardsri |
 | 19 | Programming | Lotto Locked | Medium | 200 | Wongyos Keardsri |
 | 20 | Programming | Reach The Flag | Hard | 300 | Wongyos Keardsri |
-| 21 | Reverse Engineering | Lady Cat | Easy | 100 | Wongyos Keardsri |
-| 22 | Reverse Engineering | Lady Jaguar | Easy | 100 | Wongyos Keardsri |
-| 23 | Reverse Engineering | Lady Reverse | Medium | 200 | Wongyos Keardsri |
-| 24 | Reverse Engineering | The Winner | Hard | 300 | Wongyos Keardsri |
+| 21 | Reverse Engineering & Pwn | Lady Cat | Easy | 100 | Wongyos Keardsri |
+| 22 | Reverse Engineering & Pwn | Lady Jaguar | Easy | 100 | Wongyos Keardsri |
+| 23 | Reverse Engineering & Pwn | Lady Reverse | Medium | 200 | Wongyos Keardsri |
+| 24 | Reverse Engineering & Pwn | The Winner | Hard | 300 | Wongyos Keardsri |
